@@ -7,3 +7,7 @@ Computer science, Bsc
 Data analyst
 -big project 1!
 -big project 2!
+
+### Projects
+super store project
+-
