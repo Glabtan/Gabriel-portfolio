@@ -7,7 +7,11 @@
 ---
 
 ## Skills  
-- **Technical Skills:** Data Analysis, Data Entry, MS SQL, Power BI, Data Cleaning, Data Visualization, Data Manipulation  
+- **Technical Skills:** Data Analysis, Data Entry, MS SQL, Power BI, Data Cleaning, Data Visualization, Data Manipulation
+
+
+## Project
+- **Project1** [view project](https://github.com/Glabtan/Billionaires-Statistics-Analysis-project)
 
 ---
 
@@ -41,6 +45,7 @@ DataSphere Analytics (2024)
 - **Link:** [View Certificate](https://www.udemy.com/certificate/UC-ea4e35ef-aac7-4d62-9812-c5242ed16ca9) 
 
 ---
+
 
 ## Interests  
 Reading | Watching Documentaries | Research | Volunteering | Traveling  
