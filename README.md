@@ -24,18 +24,18 @@ Tai solarin university of education(Jan. 2020 – Nov. 2024)
 WORK EXPERIENCE                                                                                
 NSDIC
  ## Data Analyst Intern                                                                                            Jan 2025 -- Feb 2025
-•	Contributed to two data modeling and visualization projects aimed at supporting strategic decision-making.
-•	Utilized Excel and Power BI to analyze large datasets, identifying valuable business opportunities.
-•	Delivered presentations with actionable data insights, influencing executive leadership decisions.
-•	Developed a Power BI dashboard to monitor customer attrition and deliver actionable insights to reduce churn.
-•	Conducted behavioral analysis of customer data, leading to data-driven recommendations for improving retention rates.
-•	Automated Excel reporting, reducing manual processing time by 30%.
+-- Contributed to two data modeling and visualization projects aimed at supporting strategic decision-making.
+-- Utilized Excel and Power BI to analyze large datasets, identifying valuable business opportunities.
+-- Delivered presentations with actionable data insights, influencing executive leadership decisions.
+-- Developed a Power BI dashboard to monitor customer attrition and deliver actionable insights to reduce churn.
+-- Conducted behavioral analysis of customer data, leading to data-driven recommendations for improving retention rates.
+-- Automated Excel reporting, reducing manual processing time by 30%.
 
 ## CognifyzTechnologies
  Business Analytics Intern                                                                         Jan 2025 –Feb 2025 
-•	Assisted in analyzing business performance data to identify trends and opportunities for optimization.
-•	Developed reports and dashboards in Power BI to support strategic decision-making.
-•	Conducted market research and competitor analysis to provide insights for business growth.
+-- Assisted in analyzing business performance data to identify trends and opportunities for optimization.
+-- Developed reports and dashboards in Power BI to support strategic decision-making.
+-- Conducted market research and competitor analysis to provide insights for business growth.
 
 
 ## Certifications  
